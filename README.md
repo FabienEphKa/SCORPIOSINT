@@ -28,7 +28,7 @@ SCORPIOSINT est conçu comme une **application portable pour macOS**. Le dossier
 
 ## Prochaines évolutions
 
-- **Extension Chrome dédiée**, inspirée de celle créée pour mon autre outil, **LAZYFAB**. LIKOS pourra lancer des recherches sur des sites externes en arrière-plan dans des onglets réservés à SCORPIOSINT, puis restituer les résultats et leurs liens sans interrompre ma navigation personnelle. Cette intégration est prévue.
+- **Extension Chrome dédiée**, inspirée de celle créée pour mon autre outil, **[LazyBrady](https://github.com/FabienEphKa/LazyBrady)**. LIKOS pourra lancer des recherches sur des sites externes en arrière-plan dans des onglets réservés à SCORPIOSINT, puis restituer les résultats et leurs liens sans interrompre ma navigation personnelle. Cette intégration est prévue.
 - **Dossiers d’enquête**, avec un meilleur suivi des pistes, le rapprochement des résultats qui se recoupent et des exports sourcés.
 - **Collecte et portabilité**, avec des recherches mieux enchaînées, des retours plus clairs quand une source est indisponible et davantage de vérifications sur support externe.
 
