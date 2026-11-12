@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./SCORPIOSINT-logo-reseaux.png" alt="Logo officiel de SCORPIOSINT" width="200">
+</p>
+
 # SCORPIOSINT · Application OSINT portable pour macOS
 
 **Version 3.0** · **Projet créé le 12 juin 2026** · **Fabien EPHKA**
