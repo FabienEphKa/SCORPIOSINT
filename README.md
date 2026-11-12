@@ -38,6 +38,6 @@ SCORPIOSINT est conçu comme une **application portable pour macOS**. Le dossier
 
 ## Statut du projet
 
-Projet propriétaire, en développement. Ce dépôt privé sert de vitrine et contient cette présentation et des captures de l’interface. Le code source, l’application et les composants ne sont pas distribués à ce stade.
+SCORPIOSINT est actuellement un projet personnel, privé et propriétaire, en cours de développement. Ce dépôt sert de vitrine et contient la présentation du projet et des captures de l’interface. À terme, mon objectif est de mettre SCORPIOSINT à la disposition de tous. Le code source, l’application et les composants ne sont pas distribués à ce stade.
 
 © 2026 Fabien EPHKA. Les composants tiers conservent leurs licences respectives.
