@@ -1,8 +1,8 @@
-# SCORPIOSINT
+# SCORPIOSINT · Application OSINT portable pour macOS
 
 **Version 3.0** · **Projet créé le 12 juin 2026** · **Fabien EPHKA**
 
-SCORPIOSINT est un atelier OSINT pour macOS. Il rassemble des outils de recherche en sources ouvertes dans une seule interface, avec un historique d’enquête et des liens vers les sources à vérifier.
+SCORPIOSINT est une application OSINT portable pour macOS dédiée à la recherche en sources ouvertes (Open Source Intelligence). Elle réunit 77 outils locaux et services en ligne, un historique d’enquête et des liens vers les sources. LIKOS assiste les recherches en local et Tor est intégré pour les consultations qui passent par ce réseau.
 
 ## Pourquoi j’ai créé SCORPIOSINT
 
@@ -51,6 +51,6 @@ Le menu de gauche donne accès aux **77 entrées** réparties en **neuf catégor
 
 ## Statut du projet
 
-SCORPIOSINT est actuellement un projet personnel, privé et propriétaire, en cours de développement. Ce dépôt sert de vitrine et contient la présentation du projet et des captures de l’interface. À terme, mon objectif est de mettre SCORPIOSINT à la disposition de tous. Le code source, l’application et les composants ne sont pas distribués à ce stade.
+SCORPIOSINT est un projet personnel et propriétaire en cours de développement. Cette vitrine publique présente l’application et son interface. Mon objectif est de mettre l’application à la disposition de tous à terme. Le code source, l’application et les composants ne sont pas distribués à ce stade.
 
 © 2026 Fabien EPHKA. Les composants tiers conservent leurs licences respectives.
