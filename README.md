@@ -18,7 +18,7 @@ J’ai voulu pouvoir suivre une piste de bout en bout sans passer mon temps à c
 
 **LIKOS** est l’assistant d’enquête local de SCORPIOSINT. Il aide à choisir les recherches, à reprendre les éléments déjà collectés et à synthétiser les résultats avec des sources cliquables. J’assume une orientation non censurée dans le choix de l’assistant local. Les conclusions restent à vérifier à partir des sources et des éléments recueillis.
 
-**Tor** est intégré pour les recherches et consultations qui passent par les parcours prévus à cet effet. Le choix d’un assistant local et l’intégration de Tor font partie de la place que je veux donner à l’autonomie de l’utilisateur dans son enquête.
+**Tor** est intégré à SCORPIOSINT pour renforcer l’anonymat et la sécurité des consultations qui passent par ce réseau. Il masque l’adresse IP d’origine aux sites consultés via Tor. L’intégration facilite aussi l’accès rapide aux services `.onion` du dark web lorsqu’une enquête le nécessite.
 
 SCORPIOSINT est conçu comme une **application portable pour macOS**. Le dossier de l’application et celui de ses données peuvent être emportés ensemble sur une clé USB, un SSD externe ou un autre support, pour les utiliser sur un Mac compatible.
 
@@ -27,6 +27,19 @@ SCORPIOSINT est conçu comme une **application portable pour macOS**. Le dossier
 - **Extension Chrome dédiée**, inspirée de celle créée pour mon autre outil, **LAZYFAB**. LIKOS pourra lancer des recherches sur des sites externes en arrière-plan dans des onglets réservés à SCORPIOSINT, puis restituer les résultats et leurs liens sans interrompre ma navigation personnelle. Cette intégration est prévue.
 - **Dossiers d’enquête**, avec un meilleur suivi des pistes, le rapprochement des résultats qui se recoupent et des exports sourcés.
 - **Collecte et portabilité**, avec des recherches mieux enchaînées, des retours plus clairs quand une source est indisponible et davantage de vérifications sur support externe.
+
+## Accueil et catalogue
+
+Le menu de gauche donne accès aux **77 entrées** réparties en **neuf catégories**. Les badges distinguent les outils **locaux** des services **en ligne**. Ces captures reprennent la répartition du catalogue. Les noms et détails des outils sont masqués et les champs montrent des exemples neutres.
+
+![Accueil de SCORPIOSINT et menu des neuf catégories](01-catalogue-pseudo.png)
+
+| Catégories du catalogue | |
+| --- | --- |
+| **Email**<br>![Catégorie Email, noms des outils masqués](02-catalogue-email.png) | **Téléphone**<br>![Catégorie Téléphone, noms des outils masqués](03-catalogue-telephone.png) |
+| **Personne**<br>![Catégorie Personne, noms des outils masqués](04-catalogue-personne.png) | **Visage / Image**<br>![Catégorie Visage / Image, noms des outils masqués](05-catalogue-visage-image.png) |
+| **Géolocalisation**<br>![Catégorie Géolocalisation, noms des outils masqués](06-catalogue-geolocalisation.png) | **Domaine / Site web**<br>![Catégorie Domaine / Site web, noms des outils masqués](07-catalogue-domaine-site-web.png) |
+| **Image / Forensics**<br>![Catégorie Image / Forensics, noms des outils masqués](08-catalogue-image-forensics.png) | **Annuaire OSINT**<br>![Catégorie Annuaire OSINT, noms des outils masqués](09-catalogue-annuaire-osint.png) |
 
 ## Aperçus
 
