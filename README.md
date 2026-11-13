@@ -8,6 +8,8 @@
 
 SCORPIOSINT est une application OSINT portable pour macOS dédiée à la recherche en sources ouvertes (Open Source Intelligence). Elle réunit 77 outils locaux et services en ligne, un historique d’enquête et des liens vers les sources. LIKOS assiste les recherches en local et Tor est intégré pour les consultations qui passent par ce réseau.
 
+**Un portage Windows est prévu.**
+
 ## Pourquoi j’ai créé SCORPIOSINT
 
 J’ai voulu pouvoir suivre une piste de bout en bout sans passer mon temps à changer d’outil, à jongler entre les onglets ou à recopier les mêmes recherches. L’idée est de partir d’un indice, de croiser plusieurs sources et de retrouver le fil de l’enquête quand j’y reviens plus tard.
